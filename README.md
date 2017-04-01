@@ -24,5 +24,5 @@ For anyone using this system, the deployment machines going down is a major inco
 
 No.
 
-I think I need to modify a config file and possible do some reverse proxying.
+I think I need to modify a config file and possibly do some reverse proxying.
 I've begun reaching out feelers to see if I can tap some advice from Netflix engineering.
